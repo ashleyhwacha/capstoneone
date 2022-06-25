@@ -1,0 +1,44 @@
+/*.bg-dark {
+	background-color: #04204e !important;
+}*/
+
+.navbar-brand {
+	font-weight: bold;
+	font-family: monospace;
+	font-size: 28px;
+
+} 
+
+
+#banner{
+	min-height:  70vh;
+	background-image: url(https://images.unsplash.com/photo-1480506132288-68f7705954bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTYzNDY5MTY3OQ&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080);
+    background-size: cover;
+
+    font-family: 'Raleway', sans-serif;
+    background-repeat: no-repeat;
+    background-position: center;
+
+	
+}
+
+.cate{
+	font-family: 'Raleway', sans-serif;
+}
+
+#gmap_canvas{
+	height: 83vh;
+	width: 100%;
+}
+
+
+
+/*.navbar-dark .navbar-nav .nav-link {
+	font-weight: 700px;
+	font-size: 14px;
+	text-transform: uppercase;
+	margin: 0 15px;
+	font-family: monospace;
+	font-weight: bold;
+}*/
+
